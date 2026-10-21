@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" width="760" height="210">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+      <stop offset="0" stop-color="#4285f4"/>
+      <stop offset="0.33" stop-color="#ea4335"/>
+      <stop offset="0.66" stop-color="#fbbc05"/>
+      <stop offset="1" stop-color="#34a853"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1520 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="210" rx="16" fill="#0d1117"/>
+  <text x="40" y="44" fill="url(#g)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" xml:space="preserve"><tspan x="40" dy="0"> ____                __     ___     _         _____         _</tspan><tspan x="40" dy="20">|  _ \ _   _ _ __ __ \ \   / (_) __| | __ _  |_   _|__  ___| |__</tspan><tspan x="40" dy="20">| |_) | | | | '__/ _` \ \ / /| |/ _` |/ _` |   | |/ _ \/ __| '_ \</tspan><tspan x="40" dy="20">|  __/| |_| | | | (_| |\ V / | | (_| | (_| |   | |  __/ (__| | | |</tspan><tspan x="40" dy="20">|_|    \__,_|_|  \__,_| \_/  |_|\__,_|\__,_|   |_|\___|\___|_| |_|</tspan></text>
+  <text x="380" y="180" text-anchor="middle" fill="#a3a5b1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">agente de e-commerce · costa rica · google adk</text>
+</svg>
